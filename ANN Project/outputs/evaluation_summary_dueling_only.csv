@@ -1,0 +1,2 @@
+model,episodes,avg_reward,std_reward,avg_length,collisions
+dueling_double_dqn_highway.pth,10,28.497990736531534,0.9748611334655137,40.0,0

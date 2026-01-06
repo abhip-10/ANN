@@ -1,0 +1,4 @@
+model,episodes,avg_reward,std_reward,avg_length,collisions
+DQN_highway_10k.zip,10,24.05797735959657,10.7728516618781,32.8,2
+double_dqn_highway.pth,10,26.230246638136673,4.951423070847745,36.5,2
+dueling_double_dqn_highway.pth,10,28.426055331691693,0.8773375806867153,40.0,0
